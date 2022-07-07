@@ -1,0 +1,29 @@
+nav{
+    background-color: rgb(43, 226, 211);
+    text-align: center;
+    padding-bottom: 6px;
+    
+}
+a{
+    font-size: 20px;
+    margin-right: 2cm; 
+    margin-left: 2px;
+    background-color: rgb(241, 241, 241);
+    border: solid;
+    border-radius: 20%;
+    border-color: azure;
+    text-decoration: none;
+}
+
+div{
+    text-align: center;
+    list-style-position: inside;
+}
+
+ul{
+    color: black;
+}
+li{
+    font-size: 14px;
+    font-style: italic;
+}
